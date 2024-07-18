@@ -60,19 +60,20 @@ const Projects = () => {
 
 export const project = [
     {
-        title:'Co People',
-        description:'Co People is a dynamic web application I crafted using React, Node JS and React. This project is a modern and engaging social platform that allows users to connect, share content and interact seamlessly.',
+        title:'Drink Water',
+        description:'Drink Water is a dynamic web application I crafted using HTML, CSS and React. This project is a nhance your well-being by staying hydrated. Proper hydration boosts energy, improves focus, and promotes overall health. .',
         image: {vpn},
-        git:'https://github.com/nithingooud/CoPeople',
-        technologies:['MongoDb' ,'ReactJS' , 'NodeJS']
+        git:'https://github.com/amritambastha4/Drink-Water.git',
+        technologies:['HTML' ,'CSS' , 'ReactJS']
     },
     {
-        title:'Snap Shot',
-        description:'SnapShot is a stunning portfolio that I exclusively designed using React JS and tailwind CSS.This Project serves as a representation of a photographer’s work, highlighting their portfolio and services.',
+        title:'Netflix Clone',
+        description:'A Netflix clone website is a streaming service website offering movies & shows, mimicking Netflix interface with recommendations and profiles. Imagine Netflix, but built from Html, Css & JavaScript',
         image: {copeople},
-        git:"https://github.com/nithingooud/vpn_studios",
+        git:"https://github.com/amritambastha4/Netflix-Clone.git",
         technologies:[ 'React JS', 'tailwind CSS']
-    }
+    },
+    
 ]
 
 export default Projects
